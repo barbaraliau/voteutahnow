@@ -4,15 +4,15 @@
     justify-center
     align-center
   >
-    <v-flex >
-      <h1 class="display-1" style="line-spacing: 0.5rem;">
+    <div>
+      <h1 class="display-1">
         BLACK.LIVES.MATTER
       </h1>
 
       <h2 class="headline">
         Be the Change
       </h2>
-    </v-flex>
+    </div>
 
     <v-row
       class="mt-5 d-flex justify-center"
