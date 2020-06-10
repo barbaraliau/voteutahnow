@@ -2,7 +2,7 @@
   "name": "voteutahnow",
   "version": "1.0.0",
   "description": "Vote Utah Now - Black Lives Matter",
-  "author": "Barbara Liau",
+  "author": "None",
   "private": true,
   "scripts": {
     "dev": "nuxt",

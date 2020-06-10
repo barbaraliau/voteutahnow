@@ -4,8 +4,8 @@
     justify-center
     align-center
   >
-    <v-flex class="text-center">
-      <h1 class="display-1" style="line-spacing: 1rem;">
+    <v-flex >
+      <h1 class="display-1" style="line-spacing: 0.5rem;">
         BLACK.LIVES.MATTER
       </h1>
 
@@ -26,7 +26,7 @@
         color="#fce21b"
         nuxt
         :to="item.link"
-        class="headline black--text mx-4"
+        class="headline black--text ma-4"
       >
         <b>{{ item.title }}</b>
       </v-btn>
