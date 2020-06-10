@@ -49,7 +49,7 @@
       </v-card-text>
     </v-card>
 
-    <v-layout class="d-flex justify-center mt-5">
+    <v-layout class="d-flex justify-center align-center my-5 flex-wrap">
       <Link-Box
         title="Register to Vote - Online"
         subtitle="Let Your Voice Count"

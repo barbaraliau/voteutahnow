@@ -22,7 +22,7 @@
       </blockquote>
     </v-flex>
 
-    <v-layout class="d-flex justify-center mt-5">
+    <v-layout class="d-flex justify-center align-center my-5 flex-wrap">
       <Link-Box
         title="Black Lives Matter - Utah"
         subtitle="Official BLM Chapter"

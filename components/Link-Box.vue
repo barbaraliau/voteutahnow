@@ -1,7 +1,7 @@
 <template>
   <v-card
     outlined
-    class="link-box mx-3"
+    class="link-box mx-3 my-3"
     :min-height="height"
     :width="width"
   >
